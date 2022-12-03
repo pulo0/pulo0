@@ -1,12 +1,6 @@
 ### pulo0
 
-I am a guy with no talent
-
-But I'm quite balanced
-
-It's like being dumb
-
-But I'm quite a scum
+a guy
 
 
 <!--
