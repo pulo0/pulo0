@@ -10,6 +10,6 @@ An indie game developer that is completely self-taught that likes to gets his ha
 - Bash
 
 ## Want to learn
-- Stack Framework for web (React, Vue, etc.)
+- Stack Frameworks for web (React, Vue, etc.)
 - Databases (such as MongoDB)
 - Kotlin
